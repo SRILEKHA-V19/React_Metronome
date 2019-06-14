@@ -18,6 +18,7 @@ You will also see any lint errors in the console.
 -> Metronome.js is the main javascript file, which has been imported directly in the index.html file(instead of App.js - the default one)
 
 -> Metronome.css has the css syle components to enhance the existing plain UI(colours, fonts - size, shape, colour and backgrounds)
+
 #####################################################
 
 
