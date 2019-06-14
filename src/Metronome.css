@@ -1,0 +1,42 @@
+.header {
+    text-transform: uppercase; 
+    text-align: center;
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.metronome {
+    text-align: center;
+    font-size: 25px;
+    font-family: "Raleway", Helvetica, Arial, serif; /* check font-families, if it is working */
+    color: rgb(88, 16, 16);
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 150px;
+    /* padding-left: 80px;
+    padding-right: 150px; */
+    background-color: #faf2ff;  
+    border: 2px solid #000002de;
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 50s linear;
+    height: 10vmin;
+    pointer-events: none;
+  }
+
+.bpm-slider input {
+    /*align: left;*/
+    width: 100%;
+    margin: 50px;
+}
+
+.metronome button {
+    background: #2224ad;
+    padding: 15px;
+    border: 2px solid #0b0749;
+    border-radius: 5px;
+    width: 100px;
+    color: #fff;
+    font-size: 20px;
+}
